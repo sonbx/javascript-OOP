@@ -1,5 +1,3 @@
-**default**
+**Javascript - Object-oriented programming**
 
-基本的なプロジェクトレイアウトのテンプレートです
-
-0から作成する時はこのテンプレートを使用します。
+An example of Object-oriented programming in Javascript
